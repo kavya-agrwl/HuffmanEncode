@@ -1,1 +1,2 @@
-# HuffmanEncode
+# CBHuffman
+CB Huffman
