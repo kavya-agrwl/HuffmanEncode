@@ -20,7 +20,7 @@ Provides the user interface to interact with the Huffman coding implementation.
 Users can input data to be encoded or decoded, and see the results.
 
 index.php
-Handles server-side interactions if any server-side processing is required. (Not detailed in the project description).
+Handles server-side interactions if any server-side processing is required.
 
 sample.txt
 A sample text file to test the encoding and decoding functionality.
