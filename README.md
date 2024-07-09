@@ -6,8 +6,8 @@ Key Files in the Project
 heap.js
 Implements a min-heap data structure, which is crucial for building the Huffman tree.
 Methods include insertion, deletion, and heapify operations to maintain the heap properties.
-huffman.js
 
+huffman.js
 Contains the core Huffman coding logic.
 createFrequencyTable: Generates a frequency table of characters in the input data.
 buildHuffmanTree: Uses the frequency table and the min-heap to construct the Huffman tree.
