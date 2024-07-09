@@ -2,8 +2,8 @@
 Huffman encoding is a popular algorithm for lossless data compression. It assigns variable-length codes to input characters, with shorter codes assigned to more frequent characters. This way, the overall size of the data is reduced.
 
 Key Files in the Project
-heap.js
 
+heap.js
 Implements a min-heap data structure, which is crucial for building the Huffman tree.
 Methods include insertion, deletion, and heapify operations to maintain the heap properties.
 huffman.js
