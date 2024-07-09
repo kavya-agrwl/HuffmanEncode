@@ -1,4 +1,4 @@
-Huffman Encoding
+
 Huffman encoding is a popular algorithm for lossless data compression. It assigns variable-length codes to input characters, with shorter codes assigned to more frequent characters. This way, the overall size of the data is reduced.
 
 Key Files in the Project
